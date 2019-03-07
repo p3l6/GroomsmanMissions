@@ -6,3 +6,7 @@ Things to search and replace to make it yours:
 * email@example.com
 * (date)
 * You'll also want to generally edit the messages in secure.php and respond.php
+
+Preview:
+
+![preview](https://raw.githubusercontent.com/pwxn/GroomsmanMissions/master/preview.gif)
